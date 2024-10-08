@@ -16,3 +16,7 @@ ul {
     border-style: hidden hidden hidden solid;
     border-color: black; 
 }
+
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
