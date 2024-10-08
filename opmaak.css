@@ -1,3 +1,18 @@
-style{
-    
+/* external = (outfit for all my pages */
+/* internal = (one page wants a unique outfit) */
+/* inline = (one line wants a unique outfit*/
+
+/* EXTERNAL */
+
+body {
+    background-color: #b3b4bd;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    text-align: center; color:darkblue
+}
+
+ul {
+    border-style: hidden hidden hidden solid;
+    border-color: black; 
 }
