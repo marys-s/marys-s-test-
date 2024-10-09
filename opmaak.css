@@ -5,18 +5,18 @@
 /* EXTERNAL */
 
 body {
-    background-color: #b3b4bd;
+    background-color: indianred;
 }
 
 h1,h2,h3,h4,h5,h6 {
-    text-align: center; color:darkblue
+    text-align: center; color:cornsilk
 }
 
 ul {
-    border-style: hidden hidden hidden solid;
+    border-style: hidden hidden hidden dotted;
     border-color: black; 
 }
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family
 }
