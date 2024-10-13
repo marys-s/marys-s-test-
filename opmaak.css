@@ -14,7 +14,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 ul {
-    border: 3px outset cornsilk
+    border: 3px outset rgba(255, 248, 220, 0.666)
 }
 
 
